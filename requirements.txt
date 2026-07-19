@@ -1,0 +1,3 @@
+# Probes run on the Python standard library alone.
+# scipy is optional and only used to print exact Clopper-Pearson 95% CIs.
+scipy>=1.10
